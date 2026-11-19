@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hotgazestudio.github.io/purrtopia-workshop-guide/sitemap.xml
